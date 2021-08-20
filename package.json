@@ -1,5 +1,5 @@
 {
-  "name": "wifi-password",
+  "name": "@boardgent/wifi-password",
   "version": "3.0.1",
   "description": "Get current wifi password",
   "license": "MIT",
@@ -8,6 +8,10 @@
     "name": "Kevin Mårtensson",
     "email": "kevinmartensson@gmail.com",
     "url": "github.com/kevva"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Boardgent/wifi-password.git"
   },
   "engines": {
     "node": ">=4"
